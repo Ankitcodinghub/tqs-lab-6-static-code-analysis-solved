@@ -1,0 +1,1 @@
+# tqs-lab-6-static-code-analysis-solved
